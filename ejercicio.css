@@ -26,15 +26,15 @@ body {
   button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #007acc;
-    color: white;
+    background-color: #c1d7e6;
+    color: rgb(27, 26, 26);
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #005fa3;
+    background-color: #ec6565;
   }
   
   #resultado {
